@@ -6,6 +6,10 @@ Figma Link: https://www.figma.com/design/VOR9O4hxmNrNEKo2aQi6LQ/-FREE-TEMPLATE--
 
 To improve my front-end development skills, I worked on website layouts and studied UI/UX design in Figma. This website is one of the projects I completed as part of an advanced front-end development course and was created for the final course assessment.
 
+## Features
+- Storage system
+- Responsive Design
+- Adaptive Website
 
 
 ## Demo
